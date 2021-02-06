@@ -1,0 +1,23 @@
+body
+      {
+        background-color: rgba(0, 0, 0, 1);
+        font-family: 'Roboto Mono', monospace;
+      }
+      .section
+      {
+        color: #FFB500;
+      }
+      .sub-section
+      {
+        color: #FF8B00;
+      }
+      .normal
+      {
+        color: #FFFFFF;
+      }
+      .avatar
+      {
+        border: 10px solid #FFD400;
+        width: 300px;
+        max-height: 300px;
+      }
